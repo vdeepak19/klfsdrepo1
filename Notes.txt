@@ -1,0 +1,21 @@
+FULL STACK DEVELOPMENT
+
+DEVOPS - GITHUB, CICD/ PIPELINE, DOCKER
+FRONTEND - HTML5 , CSS, JAVASCRIPT, REACTJS OR NEXTJS
+BACKEND - SPRING BOOT / MICROSERVICES. NODEJS
+DATABASES - MySQL, MONGODB
+
+
+APPLICATION - ECOMMERCE PROJECT
+-------------------------------------------------------------------------------------------------
+
+GITHUB
+Command - git init - command for initializing the repo
+there are two stages of untracked or tracked
+
+Command - git add .
+					  git commit -m "msg"
+					  git clone "url"
+					  git remote add origin url
+					 git push -u origin master
+					 
